@@ -8,7 +8,13 @@ The dashboard provides insights into sales performance, orders, ratings, restaur
 
 ## Dashboard Preview
 
-![Swiggy Sales Dashboard](images/swiggy_dashboard.png)
+# Swiggy Sales Dashboard
+
+The dashboard provides insights into sales performance, orders, revenue, and other key metrics.
+
+## Dashboard Preview
+
+![Swiggy Sales Dashboard](swiggy_dashboard.png)
 
 ## Key Performance Indicators
 
